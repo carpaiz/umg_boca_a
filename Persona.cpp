@@ -1,6 +1,7 @@
 #include <iostream>
 using namespace std;
 // la Clase Persona sera una clase abstracta que heredara a otras calses
+// y agrego un segundo comentario
 class Persona{
 	// atribuntos de Persona = nombres,apellidos,direccion,telefono,fecha_nacimiento
  	protected : string nombres,apellidos,direccion,fecha_nacimiento;
